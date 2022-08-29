@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamshi Reddy</h1>
-<h3 align="center">A passionate JAVA Backend Developer from India</h3>
+<h3 align="center">A passionate Java Backend Developer from India</h3>
 
 - 💬 Ask me about **JAVA,Spring boot,AWS,Angular**
 
