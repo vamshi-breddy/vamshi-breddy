@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamshi Reddy</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 
-- 💬 Ask me about **JAVA,Spring boot,AWS,Angular,Docker,Kubernetes**
+- 💬 Ask me about **Java,Spring boot,AWS,Angular,Docker,Kubernetes**
 
 - 📫 How to reach me **vamshibeereddy@gmail.com**
 
